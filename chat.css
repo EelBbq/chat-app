@@ -1,5 +1,21 @@
 body{
-    background-color: #18180f;
+    background-color: #FFFF5C;
 }
 
-.sender{}
+.message-sender{
+    font-weight: 700;
+}
+
+
+#top_bar{
+    background-color: #CCCC00;
+}
+
+h1{
+    font-size: 100%;
+}
+
+.container{
+    margin: 0 0 0 0;
+    max-width: 90%;
+}
