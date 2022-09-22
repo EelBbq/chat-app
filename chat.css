@@ -9,13 +9,19 @@ body{
 
 #top_bar{
     background-color: #CCCC00;
+    padding: .5em;
+}
+
+#chat-container{
+    background-color: #FFFFC2;
 }
 
 h1{
     font-size: 100%;
+    margin: 0;
 }
 
 .container{
     margin: 0 0 0 0;
-    max-width: 90%;
+    max-width: 100%;
 }
